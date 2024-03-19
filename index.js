@@ -9,7 +9,7 @@ async function app() {
     const page = await browser.newPage()
     await page.goto("https://www.amazon.com/s?rh=n%3A16225007011&fs=true&ref=lp_16225007011_sar")
 
-    const productsHandles = page.$$("div.s-main-slot.s-result-list.s-search-results.sg-row")
+    const productsHandles = await page.$$("div.s-main-slot.s-result-list.s-search-results.sg-row")
 
 
     let i =0;
