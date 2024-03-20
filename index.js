@@ -69,14 +69,14 @@ async function app() {
             }
         }
 
-        await page.waitForSelector("li.a-last"), { visible: true }
+        await page.waitForSelector("a.s-pagination-next"), { visible: true }
 
         const is_disabled = (await page.$("li.a-disabled.a-last")) !== null;
 
         isBtnDisabled = is_disabled
         if (!is_disabled) {
             await Promise.all([
-                page.click("li.a-last"),
+                page.click("a.s-pagination-next"),
                 page.waitForNavigation({waitUntil:"networkidle2"})
             ])
         }
