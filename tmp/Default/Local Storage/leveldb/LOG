@@ -1,3 +1,17 @@
-2024/03/20-11:38:33.986 7f0 Reusing MANIFEST C:\mern-developer\puppeteer\tmp\Default\Local Storage\leveldb/MANIFEST-000001
-2024/03/20-11:38:33.992 7f0 Recovering log #4
-2024/03/20-11:38:33.995 7f0 Reusing old log C:\mern-developer\puppeteer\tmp\Default\Local Storage\leveldb/000004.log 
+2024/03/20-14:06:33.361 4640 Reusing MANIFEST C:\mern-developer\puppeteer\tmp\Default\Local Storage\leveldb/MANIFEST-000001
+2024/03/20-14:06:33.365 4640 Recovering log #7
+2024/03/20-14:06:33.366 4640 Level-0 table #9: started
+2024/03/20-14:06:33.491 4640 Level-0 table #9: 80533 bytes OK
+2024/03/20-14:06:33.492 4640 Recovering log #9
+2024/03/20-14:06:33.497 4640 Level-0 table #10: started
+2024/03/20-14:06:33.620 4640 Level-0 table #10: 142172 bytes OK
+2024/03/20-14:06:33.629 4640 Delete type=0 #7
+2024/03/20-14:06:33.629 4640 Delete type=0 #9
+2024/03/20-14:06:33.631 648 Compacting 4@0 + 0@1 files
+2024/03/20-14:06:33.648 648 Generated table #12@0: 18 keys, 150973 bytes
+2024/03/20-14:06:33.650 648 Compacted 4@0 + 0@1 files => 150973 bytes
+2024/03/20-14:06:33.651 648 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/20-14:06:33.667 648 Delete type=2 #3
+2024/03/20-14:06:33.667 648 Delete type=2 #6
+2024/03/20-14:06:33.667 648 Delete type=2 #9
+2024/03/20-14:06:33.667 648 Delete type=2 #10

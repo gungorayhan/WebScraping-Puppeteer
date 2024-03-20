@@ -1,3 +1,5 @@
-2024/03/20-11:27:11.994 708 Reusing MANIFEST C:\mern-developer\puppeteer\tmp\Default\Local Storage\leveldb/MANIFEST-000001
-2024/03/20-11:27:11.998 708 Recovering log #4
-2024/03/20-11:27:12.001 708 Reusing old log C:\mern-developer\puppeteer\tmp\Default\Local Storage\leveldb/000004.log 
+2024/03/20-14:05:57.363 f84 Reusing MANIFEST C:\mern-developer\puppeteer\tmp\Default\Local Storage\leveldb/MANIFEST-000001
+2024/03/20-14:05:57.412 f84 Recovering log #7
+2024/03/20-14:05:57.417 f84 Reusing old log C:\mern-developer\puppeteer\tmp\Default\Local Storage\leveldb/000007.log 
+2024/03/20-14:06:11.445 d20 Level-0 table #10: started
+2024/03/20-14:06:11.456 d20 Level-0 table #10: 80533 bytes OK
